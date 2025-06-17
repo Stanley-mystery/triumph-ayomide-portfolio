@@ -1700,7 +1700,6 @@ section,
   border-radius: 12px;
   box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
   height: 100%;
-
 }
 
 .portfolio .portfolio-wrap video {
@@ -2687,9 +2686,6 @@ section,
 /*--------------------------------------------------------------
 # Starter Section Section
 --------------------------------------------------------------*/
-.starter-section {
-  /* Add your styles here */
-}
 
 .mission-text {
   color: var(--accent-color);
